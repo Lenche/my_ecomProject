@@ -8,5 +8,5 @@ We'll work with fake data from the Ecommerce Customers csv file from some compan
 * Time on Website: Average time spent on Website in minutes
 * Length of Membership: How many years the customer has been a member. 
 
-
+We will explore the dependencies between the numerical columns and the Yearly Amount spent and we will try to figure out does the company need to improve more their mobile app or the web application.
 
