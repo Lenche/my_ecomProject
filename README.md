@@ -10,3 +10,5 @@ We'll work with fake data from the Ecommerce Customers csv file from some compan
 
 We will explore the dependencies between the numerical columns and the Yearly Amount spent and we will try to figure out does the company need to improve more their mobile app or the web application.
 
+The software and libraries that eed t be installed are lister in file 'requrements'.
+
